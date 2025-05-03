@@ -1,4 +1,4 @@
-This assignment demonstrates different ways to create and manage arrays (or list-like structures) in Python** and C++, based on how memory is allocated. It includes simple examples of four common types of array allocation methods.
+This assignment demonstrates different ways to create and manage arrays (or list-like structures) in Python and C++, based on how memory is allocated. It includes simple examples of four common types of array allocation methods.
 
  Types of Array Allocation Explained
 
